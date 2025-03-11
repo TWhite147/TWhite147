@@ -9,6 +9,12 @@ I'm a budding software developer with a passion for learning and building cool t
 #### [Uplift](https://github.com/uplift-app/uplift)  
 A habit-tracking app designed to help users build positive routines and stay accountable. Built with a modern web stack.  
 
+### [Cooksphere](https://github.com/Billhaigh13/Cooksphere)
+A recipe sharing plaform for users to share, save and rate recipes. Built with a modern web stack. 
+
+### [Todo](https://github.com/TWhite147/todo)
+A simple web app built within a week to let users create a todo list. Built with mobile devices in mind using React Native.
+
 #### [Sweeping Mines](https://github.com/TWhite147/sweeping-mines)  
 A fun, web-based Minesweeper game. Test your logic and try not to hit a mine!  
 
@@ -26,7 +32,9 @@ A fun, web-based Minesweeper game. Test your logic and try not to hit a mine!
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
